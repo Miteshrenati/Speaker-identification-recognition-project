@@ -4,6 +4,4 @@ __pycache__/
 *.sqlite3
 
 # ML / DL files
-*.npy
-*.pth
 features/
