@@ -1,0 +1,9 @@
+speaker_env/
+__pycache__/
+.env
+*.sqlite3
+
+# ML / DL files
+*.npy
+*.pth
+features/
